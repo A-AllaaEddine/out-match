@@ -8,7 +8,7 @@ To get started with Timezone Matcher, follow these simple steps:
 Clone the repository:
 
 
-`git clone https://github.com/your-username/timezone-matcher.git`
+`git clone https://github.com/A-AllaaEddine/timezone-matcher.git`
 
 Install dependencies:
 
